@@ -1,0 +1,17 @@
+main{
+    background-color: #eee;
+    width:300px;
+    margin: 20px auto;
+    border-radius: 20px;
+    border: solid 2px #dedede;
+    text-align: center;
+}
+#time{
+    font-size: 21px;
+    background-color: #fefefe;
+    padding: 3px;
+    width: 50px;
+    margin-left: 125px;
+    text-align: justify;
+    border: 1px dashed #f1f1f1;
+}
